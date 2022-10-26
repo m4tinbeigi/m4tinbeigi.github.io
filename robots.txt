@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://M4tinBeigi.com/sitemap.xml

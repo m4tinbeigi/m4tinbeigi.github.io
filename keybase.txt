@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/m4tinbeigi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://m4tinbeigi.com
+  * I am m4tinbeigi (https://keybase.io/m4tinbeigi) on keybase.
+  * I have a public key with fingerprint 9B33 1A89 33E4 E549 0730  B06E CC32 49DC 3820 CE0B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "",
+      "fingerprint": "",
+      "host": "keybase.io",
+      "key_id": "",
+      "kid": "",
+      "uid": "",
+      "username": "m4tinbeigi"
+    },
+    "merkle_root": {
+      "ctime": ,
+      "hash_meta": "",
+      "seqno": 3974094
+    },
+    "revoke": {
+      "sig_ids": [
+        ""
+      ]
+    },
+    "service": {
+      "hostname": "m4tinbeigi.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": ,
+  "expire_in": ,
+  "prev": "",
+  "seqno": 59,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/m4tinbeigi
+
+==================================================================
